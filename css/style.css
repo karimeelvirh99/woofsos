@@ -1,0 +1,226 @@
+@import url('https://fonts.googleapis.com/css2?family=Livvic:wght@100;300;400;500;600;700;900&display=swap');
+
+body {
+	font-family: 'Livvic', sans-serif;
+	background-image: url(../img/pexels-amy-mccormack-5463180.jpg);
+	background-size: cover;
+    background-position: bottom;
+    font-family: Segoe UI;
+    font-size: 14px;
+    height: 100vh;
+    color: #fff;
+}
+
+header{
+	padding: 51px;
+    position: absolute;
+    color: #fff;
+    width: 100%;
+}
+.head-btn{
+	color: #fff;
+	font-weight: 600;
+	text-decoration: none;
+	font-size: 17px;
+	text-align: center;
+	margin: 0 10%;
+}
+.logo{
+	display: flex;
+}
+.title{
+	text-align: center;
+	font-size: 80px;
+	margin: 25px 10px; 
+	font-weight: 700;
+}
+.title-2{
+	text-align: center;
+	font-size: 80px;
+	margin: 25px 10px; 
+	font-weight: 400;
+	color: #f0f333;
+}
+.subtitulo {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+.logo-img{
+	max-height: 60px; 
+	margin-right: 15px;
+}
+
+.hero-img{
+	border-radius: 25px;
+}
+.hero-img2{
+	border-radius: 10%;
+	margin-top: 10%;
+}
+
+section{
+	background-color: rgb(0 0 0 / 52%);
+	padding: 50px 0;
+}
+
+#hero{
+	padding: 180px 0 20px;
+}
+
+h2{
+	font-size: 30px;
+	text-align: center;
+	font-weight: 600;
+	margin: 10px;
+	color: #fff;
+}
+
+.front-page{
+	margin: 25px;
+}
+.sub{
+	padding: 85px 87px;
+    background-color: rgb(208 208 208 / 53%);
+    border-radius: 10%;
+    text-align: center;
+}
+.title-form{
+	font-weight: 600;
+	color: #f0f333;
+	text-align: center;
+	font-size: 60px;
+}
+
+p{
+	font-size: 30px;
+	text-align: left;
+}
+
+.form-space{
+	background-color: #fff;
+	border-radius: 25px;
+	width: 100%;
+	border: none;
+	padding: 20px 25px;
+
+}
+.btn-form{
+	background-color: #f0f333;
+	width: 50%;
+	color: #000;
+	font-size: 30px;
+	font-weight: 600;
+	margin-top: 7%;
+	border-radius: 20px;
+}
+
+.icon{
+	padding: 25px 30px;
+	border-radius: 50%;
+	color: #f0f333;
+	background-color: #000;
+	font-size: 50px;
+	text-align: center;
+	margin: 0 20px;
+}
+.foot{
+	text-align: center;
+}
+.foot-text{
+	color: #000;
+	font-weight: 400;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 5%; 
+}
+footer {
+    background-color: #f0f333;
+    padding: 100px 0;
+    padding: 50px;
+    display: flex;
+    align-content: center;
+    color: #000;
+}
+
+.nav-item{
+	padding-left: 5rem;
+	padding-right: 5rem;
+}
+.navbar{
+	padding-left: 5.5rem;
+	padding-right: 5.5rem;
+	background-color: transparent!important;
+}
+.nav-link, .navbar-brand{
+	color: white !important;
+}
+.navbar-brand{
+	font-size: 2.2rem;
+}
+.nav-link{
+	font-size: 1.2rem;
+}
+#cabeza .titulo{
+	font-size: 5rem;
+	text-align: center
+}
+#cabeza .subtitulo{
+	font-size: 3.2rem;
+	padding-left: 10%;
+	padding-right: 5%;
+	color: #FFDB24;
+	width: 50vw;
+}
+#cabeza .subtitulo h1{
+	font-size: 3.2rem;
+	text-align: center;
+}
+#cabeza .subtitulo p{
+	font-size: 1.2rem;
+	width: 92%;
+	color: #fff;
+	padding-left: 8%;
+	text-align:justify;
+}
+#cabeza .subtitulo span{
+	margin-left: 8%;
+}
+.nav-pills .nav-link.active{
+	background-color: #FFDB24;
+}
+#cabeza .contenido{
+	display: flex;
+}
+#cabeza .imagen{
+	padding-right: 10%;
+	padding-left: 10%;
+	height: 50%;
+	width: 50%;
+	max-width: 50vw;
+}
+#cabeza img{
+	width: 50%;
+	border-radius: 10%;
+}
+#cuerpo img{
+	width: 100%;
+	height: 100%;
+}
+#cuerpo section .arreglo img{
+	height: 380px;
+}
+#cuerpo section h2{
+	color: #FFDB24;
+	text-align: center;
+}
+#cuerpo .col-lg-3 .col-sm-6 .col-12{
+	display: flex;
+	align-content: space-between;
+}
+
+#cuerpo{
+	margin: 0;
+	padding: 50px 0;
+
+}
